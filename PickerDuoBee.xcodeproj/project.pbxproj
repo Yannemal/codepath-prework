@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7C11F40C29FBAC9B0044AE67 /* TabledViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C11F40B29FBAC9B0044AE67 /* TabledViewController.swift */; };
 		7C3A26DD29E913690001F973 /* RobotMasterManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C3A26DC29E913680001F973 /* RobotMasterManager.swift */; };
 		7C3A26E029EAD4650001F973 /* RM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C3A26DF29EAD4650001F973 /* RM.swift */; };
 		7C52964B29E454310085001E /* PickerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C52964A29E454310085001E /* PickerViewController.swift */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7C11F40B29FBAC9B0044AE67 /* TabledViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabledViewController.swift; sourceTree = "<group>"; };
 		7C3A26DC29E913680001F973 /* RobotMasterManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RobotMasterManager.swift; sourceTree = "<group>"; };
 		7C3A26DF29EAD4650001F973 /* RM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RM.swift; sourceTree = "<group>"; };
 		7C52964A29E454310085001E /* PickerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerViewController.swift; sourceTree = "<group>"; };
@@ -99,6 +101,7 @@
 				7C52B07829E2F2F300B51619 /* ViewController.swift */,
 				7C52B08929E2F4F100B51619 /* MainViewController.swift */,
 				7C52964A29E454310085001E /* PickerViewController.swift */,
+				7C11F40B29FBAC9B0044AE67 /* TabledViewController.swift */,
 			);
 			path = CONTROL;
 			sourceTree = "<group>";
@@ -174,6 +177,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7C11F40C29FBAC9B0044AE67 /* TabledViewController.swift in Sources */,
 				7C3A26E029EAD4650001F973 /* RM.swift in Sources */,
 				7C3A26DD29E913690001F973 /* RobotMasterManager.swift in Sources */,
 				7C52964B29E454310085001E /* PickerViewController.swift in Sources */,
